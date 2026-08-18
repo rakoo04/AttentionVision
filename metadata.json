@@ -1,0 +1,6 @@
+{
+  "name": "AttentionVision",
+  "description": "Upload website screenshots to generate predictive AI visual attention heatmaps using Gemini 3 Pro (Nano Banana Pro). Visualizes user focus areas by analyzing UI elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
